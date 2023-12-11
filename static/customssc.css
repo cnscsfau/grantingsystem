@@ -1,0 +1,38 @@
+/* .sidenav {
+  background: #90323d;
+  color: black;
+} */
+
+.cnscsfautitle {
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* 
+#navbarBlur {
+  background: #950606;
+  color: white;
+} */
+
+@media (min-width:1200px) {
+  .sidenav {
+    background: #90323d;
+    color: black;
+  }
+}
+
+@media (min-width:768px) {
+  .sidenav {
+    background: #90323d;
+    color: black;
+  }
+}
+
+@media (min-width:320px) {
+  .sidenav {
+    background: #90323d;
+    color: black;
+  }
+}
